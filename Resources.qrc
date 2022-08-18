@@ -1,0 +1,12 @@
+<RCC>
+    <qresource prefix="/images">
+        <file>images/background.svg</file>
+    </qresource>
+    <qresource prefix="/icons">
+        <file>icon/phonebook.svg</file>
+        <file>icon/close.svg</file>
+        <file>icon/minimize.svg</file>
+        <file>icon/phone-svgrepo-com.svg</file>
+        <file>icon/user-svgrepo-com.svg</file>
+    </qresource>
+</RCC>
